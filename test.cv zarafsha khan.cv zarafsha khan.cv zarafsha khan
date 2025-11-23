@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Student CV Profile</title>
+
+    <!-- Linking External CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- ===== Header ===== -->
+    <div class="top-header">
+        Student CV Profile
+    </div>
+
+    <!-- ===== Profile Section ===== -->
+    <div class="profile-photo">
+    <img src="C:\Users\Hamnah\Pictures\Screenshots\hafsah.png" alt="Profile Photo">
+</div>
+
+
+        <div class="name">zarafsha khan</div>
+        <div class="designation">Artifical intelligence</div>
+        <div class="contact">
+            Email: 2520080@aack.au.edu.pk@gmail.com | Phone: 03687864337
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>Objective</h2>
+        <ul>
+         Enthusiastic Artificial Intelligence student with a strong base in C++ programming and excellent MS Word skills, actively seeking an internship to transform academic concepts into practical solutions. Dedicated to writing clean, optimized code and continuously expanding my knowledge of emerging technologies. Ready to contribute positively to a dynamic development team and grow through real-world experience.
+        </ul>
+    </div>
+
+    <!-- ===== Education Section ===== -->
+  
+    <div class="card">
+          <h2>Education</h2>  
+        <ul>
+            <li><strong>Artificial Intelligence </strong> | AUCK | 2023 - Present | CGPA: 3.5</li>
+            <li><strong>Pre-Engineering </strong> | The Lyceum | 2021 - 2023 | Percentage: 89%</li>
+            <li><strong>Matriculation </strong> | The Lyceum | 2019 - 2021 | Percentage: 90%</li>
+        </ul>
+        </div>
+
+    <!-- ===== Skills Section ===== -->
+    <div class="card">
+        <h2>Skills</h2>
+        <ul>
+            <li>Ms Word</li>
+            <li>Ms Access </li>
+            <li>MS Excel </li>
+            <li>Video Editing </li
+        </ul>
+    </div>
+
+    <!-- ===== Projects Section ===== -->
+    <div class="card">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Poster Designing</strong> </li>
+            <li><strong>Patient ER database</strong> </li>
+            <li><strong>CV making</strong> </li>
+            <li><strong>Web API in Ms spreadsheet</strong> </li>
+        </ul>
+    </div>
+
+    <!-- ===== Experience Section ===== -->
+    <div class="card">
+        <h2>Experience</h2>
+        <ul>
+            <li>
+                <strong>FIMMUN'25 </strong> Acted as a host delegate member<br>
+                <strong>Prefect   </strong>   Acted as a part of student council in HSSC II<br>
+                <strong>Head Girl </strong> Acted as a Head of student council in<br>
+            </li>
+        </ul>
+    </div>
+    <div class="card">
+        <h2>Courses Taken</h2>
+        <ul>
+            <li>
+                Information and communication technology<br></li>
+                 <li>Programming Fundamentals<br></li>
+                  <li>Functional English<br></li>
+                  <li>Applied Physics<br></li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Extracurricular Activities</h2>
+        <ul>
+            
+              <li>  Badminton<br></li>
+                <li>Table tennis<br></li>
+               <li> Basket Ball<br></li> 
+               <li>Reading books<br></li> 
+        </ul>
+    </div>
+    <div class="card">
+        <h2>Certifications & Awards</h2>
+        <ul>
+            
+                <li><strong>HRCA English Competition certificate</strong>(2019)<br></li>
+                <li><strong>FIMMUN</strong>(2025)<br></li>
+                <li><strong>Certificate of merit</strong>(2019)<br></li>
+                <li><strong>Academic Shield </strong>(2018)<br></li>
+        </ul>
+    </div>
+     <div class="card">
+        <h2>Refrences</h2>
+        <ul>
+            
+                Available upon request<br>
+                
+        </ul>
+    </div>
+    <footer class="footer">
+    <p>© 2025 All Rights Reserved | Designed by Hafsah Naseer</p>
+    <a href="https://github.com/" target="_blank" class="github-link">
+        <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub Icon">
+        Hafsah GitHub 
+    </a>
+</footer>
+
+
+
+</body>
+</html>
