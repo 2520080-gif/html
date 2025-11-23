@@ -1,0 +1,107 @@
+/* ===== Global Reset ===== */
+ * { 
+    box-sizing: border-box;
+ }
+  body
+   { 
+    margin: 0; font-family: Arial, sans-serif; 
+    background: #f5f7fa;
+     color: #222;
+    }
+
+     /* ===== Header ===== */
+.top-header {
+    background: #003b73;
+    color: white;
+    text-align: center;
+    padding: 25px 0;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+     /* ===== Profile ===== */ 
+     .profile-section {
+    text-align: center;  /* This centers all text inside */
+    padding: 30px 20px;
+}
+
+.name, .designation, .contact {
+    text-align: center;  /* Ensures centering individually */
+}
+
+        .profile-photo {
+    width: 170px;      /* Increased size to look better */
+    height: 170px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: auto;
+    border: 4px solid #003b73;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures full fill, no empty space */
+    object-position: center; /* Keeps face centered */
+}
+
+         .name
+                      
+         { font-size: 32px;
+         margin-top: 15px;
+        font-weight: bold; 
+        } 
+         .designation 
+         { font-size: 18px; color: #444; } 
+         .contact { margin-top: 5px; color: #555; } 
+        /* ===== Card / Sections ===== */ 
+        .card { 
+        background: white; 
+        width: 90%; max-width:
+        900px; margin: 25px auto; 
+        padding: 25px; 
+        border-radius: 8px; 
+        border-left: 6px solid #003b73;
+         } 
+       .card h2 
+       { margin-top: 0; 
+         font-size: 24px; 
+         color: #003b73; } 
+        .card ul
+        { margin-top: 10px; 
+        } 
+          .card li
+      { margin-bottom: 8px;
+         } 
+         /* ===== Footer ===== */
+.footer {
+    background: #003b73;
+    color: white;
+    text-align: center;
+    padding: 25px 0;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+    display: inline-flex;
+    align-items: center;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.footer img {
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
